@@ -1,0 +1,26 @@
+Fonts
+
+
+
+Orator STD:
+Description des Ulti
+Description des Skills
+"select your champion..."
+
+
+Akira expanded:
+Nom des Ulti
+Nom des compétences
+
+
+Input Mono Compressed Bold:
+"press to change"
+"press to swap"
+
+
+Ethnocentric:
+"Main menu "
+"Match settings"
+"Player selection"
+Nom des perso
+Première lettre du nom des Ulti  (j'abuse !!! vraiment désolée ^^')
