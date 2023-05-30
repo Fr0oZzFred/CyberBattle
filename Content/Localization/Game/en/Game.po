@@ -1,0 +1,477 @@
+﻿# Game English translation.
+# Copyright Epic Games, Inc. All Rights Reserved.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: Game\n"
+"POT-Creation-Date: 2023-05-30 07:12\n"
+"PO-Revision-Date: 2023-05-30 07:12\n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Key:	BouncyShot
+#. SourceLocation:	/Game/Localization/StringTable/ST_Bonus.ST_Bonus
+#: /Game/Localization/StringTable/ST_Bonus.ST_Bonus
+msgctxt "ST_Bonus,BouncyShot"
+msgid "Bouncy Shot"
+msgstr "Bouncy Shot"
+
+#. Key:	GhostShot
+#. SourceLocation:	/Game/Localization/StringTable/ST_Bonus.ST_Bonus
+#: /Game/Localization/StringTable/ST_Bonus.ST_Bonus
+msgctxt "ST_Bonus,GhostShot"
+msgid "Ghost Shot"
+msgstr "Ghost Shot"
+
+#. Key:	MadControl
+#. SourceLocation:	/Game/Localization/StringTable/ST_Bonus.ST_Bonus
+#: /Game/Localization/StringTable/ST_Bonus.ST_Bonus
+msgctxt "ST_Bonus,MadControl"
+msgid "Mad Control"
+msgstr "Mad Control"
+
+#. Key:	Shield
+#. SourceLocation:	/Game/Localization/StringTable/ST_Bonus.ST_Bonus
+#: /Game/Localization/StringTable/ST_Bonus.ST_Bonus
+msgctxt "ST_Bonus,Shield"
+msgid "Shield"
+msgstr "Shield"
+
+#. Key:	TargetShot
+#. SourceLocation:	/Game/Localization/StringTable/ST_Bonus.ST_Bonus
+#: /Game/Localization/StringTable/ST_Bonus.ST_Bonus
+msgctxt "ST_Bonus,TargetShot"
+msgid "Super Target Shot"
+msgstr "Super Target Shot"
+
+#. Key:	BattleOver
+#. SourceLocation:	/Game/Localization/StringTable/ST_InGame.ST_InGame
+#: /Game/Localization/StringTable/ST_InGame.ST_InGame
+msgctxt "ST_Divers,BattleOver"
+msgid "Battle Over"
+msgstr "Battle Over"
+
+#. Key:	Destroy
+#. SourceLocation:	/Game/Localization/StringTable/ST_InGame.ST_InGame
+#: /Game/Localization/StringTable/ST_InGame.ST_InGame
+msgctxt "ST_Divers,Destroy"
+msgid "Destroy your opponent Station !"
+msgstr "Destroy your opponent Station !"
+
+#. Key:	PlayerAdvantage
+#. SourceLocation:	/Game/Localization/StringTable/ST_InGame.ST_InGame
+#: /Game/Localization/StringTable/ST_InGame.ST_InGame
+msgctxt "ST_Divers,PlayerAdvantage"
+msgid "Player {Index} have the advantage !"
+msgstr "Player {Index} have the advantage !"
+
+#. Key:	Ready
+#. SourceLocation:	/Game/Localization/StringTable/ST_InGame.ST_InGame
+#: /Game/Localization/StringTable/ST_InGame.ST_InGame
+msgctxt "ST_Divers,Ready"
+msgid "Ready"
+msgstr "Ready"
+
+#. Key:	Skip
+#. SourceLocation:	/Game/Localization/StringTable/ST_InGame.ST_InGame
+#: /Game/Localization/StringTable/ST_InGame.ST_InGame
+msgctxt "ST_Divers,Skip"
+msgid "Skip"
+msgstr "Skip"
+
+#. Key:	Welcome
+#. SourceLocation:	/Game/Localization/StringTable/ST_InGame.ST_InGame
+#: /Game/Localization/StringTable/ST_InGame.ST_InGame
+msgctxt "ST_Divers,Welcome"
+msgid "Welcome To Cyber Arena"
+msgstr "Welcome To Cyber Arena"
+
+#. Key:	Winner
+#. SourceLocation:	/Game/Localization/StringTable/ST_InGame.ST_InGame
+#: /Game/Localization/StringTable/ST_InGame.ST_InGame
+msgctxt "ST_Divers,Winner"
+msgid "The Winner is"
+msgstr "The Winner is"
+
+#. Key:	CharDesEdele
+#. SourceLocation:	/Game/Localization/StringTable/ST_PlayerData.ST_PlayerData
+#: /Game/Localization/StringTable/ST_PlayerData.ST_PlayerData
+msgctxt "ST_PlayerData,CharDesEdele"
+msgid "An extravagant ex-champion of strategy game, unmotivated of winning, he try a new interest in the Cyber Battle and exploit his talent of tactician to become a perfect winner. "
+msgstr "An extravagant ex-champion of strategy game, unmotivated of winning, he try a new interest in the Cyber Battle and exploit his talent of tactician to become a perfect winner. "
+
+#. Key:	CharDesN1B0
+#. SourceLocation:	/Game/Localization/StringTable/ST_PlayerData.ST_PlayerData
+#: /Game/Localization/StringTable/ST_PlayerData.ST_PlayerData
+msgctxt "ST_PlayerData,CharDesN1B0"
+msgid "An android created by a slacker to do his chores, he inherited his personality and also creates automation systems. The Cyber Battle is an opportunity to laze the rest of his life."
+msgstr "An android created by a slacker to do his chores, he inherited his personality and also creates automation systems. The Cyber Battle is an opportunity to laze the rest of his life."
+
+#. Key:	CharDesSatoshi
+#. SourceLocation:	/Game/Localization/StringTable/ST_PlayerData.ST_PlayerData
+#: /Game/Localization/StringTable/ST_PlayerData.ST_PlayerData
+msgctxt "ST_PlayerData,CharDesSatoshi"
+msgid "A serious scientist and astronomer, he's a planets lovers. His goal is to create an artificial black hole. He participates in the Cyber Battle to test his inventions, his black hole in particular."
+msgstr "A serious scientist and astronomer, he's a planets lovers. His goal is to create an artificial black hole. He participates in the Cyber Battle to test his inventions, his black hole in particular."
+
+#. Key:	TauntEdele
+#. SourceLocation:	/Game/Localization/StringTable/ST_PlayerData.ST_PlayerData
+#: /Game/Localization/StringTable/ST_PlayerData.ST_PlayerData
+msgctxt "ST_PlayerData,TauntEdele"
+msgid "Skill Issue"
+msgstr "Skill Issue"
+
+#. Key:	TauntN1B0
+#. SourceLocation:	/Game/Localization/StringTable/ST_PlayerData.ST_PlayerData
+#: /Game/Localization/StringTable/ST_PlayerData.ST_PlayerData
+msgctxt "ST_PlayerData,TauntN1B0"
+msgid "Boring"
+msgstr "Boring"
+
+#. Key:	TauntSatoshi
+#. SourceLocation:	/Game/Localization/StringTable/ST_PlayerData.ST_PlayerData
+#: /Game/Localization/StringTable/ST_PlayerData.ST_PlayerData
+msgctxt "ST_PlayerData,TauntSatoshi"
+msgid "Predictable"
+msgstr "Predictable"
+
+#. Key:	UltDesEdele
+#. SourceLocation:	/Game/Localization/StringTable/ST_PlayerData.ST_PlayerData
+#: /Game/Localization/StringTable/ST_PlayerData.ST_PlayerData
+msgctxt "ST_PlayerData,UltDesEdele"
+msgid "Call Bombers and Fighters"
+msgstr "Call Bombers and Fighters"
+
+#. Key:	UltDesN1B0
+#. SourceLocation:	/Game/Localization/StringTable/ST_PlayerData.ST_PlayerData
+#: /Game/Localization/StringTable/ST_PlayerData.ST_PlayerData
+msgctxt "ST_PlayerData,UltDesN1B0"
+msgid "Auto Aim Temporaly"
+msgstr "Auto Aim Temporaly"
+
+#. Key:	UltDesSatoshi
+#. SourceLocation:	/Game/Localization/StringTable/ST_PlayerData.ST_PlayerData
+#: /Game/Localization/StringTable/ST_PlayerData.ST_PlayerData
+msgctxt "ST_PlayerData,UltDesSatoshi"
+msgid "Generate a Black Hole"
+msgstr "Generate a Black Hole"
+
+#. Key:	UltNameEdele
+#. SourceLocation:	/Game/Localization/StringTable/ST_PlayerData.ST_PlayerData
+#: /Game/Localization/StringTable/ST_PlayerData.ST_PlayerData
+msgctxt "ST_PlayerData,UltNameEdele"
+msgid "Renfort"
+msgstr "Renfort"
+
+#. Key:	UltNameN1B0
+#. SourceLocation:	/Game/Localization/StringTable/ST_PlayerData.ST_PlayerData
+#: /Game/Localization/StringTable/ST_PlayerData.ST_PlayerData
+msgctxt "ST_PlayerData,UltNameN1B0"
+msgid "No Pain But Gain"
+msgstr "No Pain But Gain"
+
+#. Key:	UltNameSatoshi
+#. SourceLocation:	/Game/Localization/StringTable/ST_PlayerData.ST_PlayerData
+#: /Game/Localization/StringTable/ST_PlayerData.ST_PlayerData
+msgctxt "ST_PlayerData,UltNameSatoshi"
+msgid "Big Bang"
+msgstr "Big Bang"
+
+#. Key:	BattleSettings
+#. SourceLocation:	/Game/Localization/StringTable/ST_PlayerSelection.ST_PlayerSelection
+#: /Game/Localization/StringTable/ST_PlayerSelection.ST_PlayerSelection
+msgctxt "ST_PlayerSelection,BattleSettings"
+msgid "Battle Settings"
+msgstr "Battle Settings"
+
+#. Key:	ChampionDescription
+#. SourceLocation:	/Game/Localization/StringTable/ST_PlayerSelection.ST_PlayerSelection
+#: /Game/Localization/StringTable/ST_PlayerSelection.ST_PlayerSelection
+msgctxt "ST_PlayerSelection,ChampionDescription"
+msgid "Champion Description"
+msgstr "Champion Description"
+
+#. Key:	Cooldown
+#. SourceLocation:	/Game/Localization/StringTable/ST_PlayerSelection.ST_PlayerSelection
+#: /Game/Localization/StringTable/ST_PlayerSelection.ST_PlayerSelection
+msgctxt "ST_PlayerSelection,Cooldown"
+msgid "Cooldown : {Cooldown}s"
+msgstr "Cooldown : {Cooldown}s"
+
+#. Key:	Details
+#. SourceLocation:	/Game/Localization/StringTable/ST_PlayerSelection.ST_PlayerSelection
+#: /Game/Localization/StringTable/ST_PlayerSelection.ST_PlayerSelection
+msgctxt "ST_PlayerSelection,Details"
+msgid "SELECT YOUR CHAMPION AND CUSTOMIZE YOUR FIGHTER !"
+msgstr "SELECT YOUR CHAMPION AND CUSTOMIZE YOUR FIGHTER !"
+
+#. Key:	Duration
+#. SourceLocation:	/Game/Localization/StringTable/ST_PlayerSelection.ST_PlayerSelection
+#: /Game/Localization/StringTable/ST_PlayerSelection.ST_PlayerSelection
+msgctxt "ST_PlayerSelection,Duration"
+msgid "Duration : {Duration}s"
+msgstr "Duration : {Duration}s"
+
+#. Key:	P1Switch
+#. SourceLocation:	/Game/Localization/StringTable/ST_PlayerSelection.ST_PlayerSelection
+#: /Game/Localization/StringTable/ST_PlayerSelection.ST_PlayerSelection
+msgctxt "ST_PlayerSelection,P1Switch"
+msgid "P1 wants to switch"
+msgstr "P1 wants to switch"
+
+#. Key:	P2Switch
+#. SourceLocation:	/Game/Localization/StringTable/ST_PlayerSelection.ST_PlayerSelection
+#: /Game/Localization/StringTable/ST_PlayerSelection.ST_PlayerSelection
+msgctxt "ST_PlayerSelection,P2Switch"
+msgid "P2 wants to switch"
+msgstr "P2 wants to switch"
+
+#. Key:	PlayerSelection
+#. SourceLocation:	/Game/Localization/StringTable/ST_PlayerSelection.ST_PlayerSelection
+#: /Game/Localization/StringTable/ST_PlayerSelection.ST_PlayerSelection
+msgctxt "ST_PlayerSelection,PlayerSelection"
+msgid "Player Selection !"
+msgstr "Player Selection !"
+
+#. Key:	Random
+#. SourceLocation:	/Game/Localization/StringTable/ST_PlayerSelection.ST_PlayerSelection
+#: /Game/Localization/StringTable/ST_PlayerSelection.ST_PlayerSelection
+msgctxt "ST_PlayerSelection,Random"
+msgid "Random"
+msgstr "Random"
+
+#. Key:	Ready!
+#. SourceLocation:	/Game/Localization/StringTable/ST_PlayerSelection.ST_PlayerSelection
+#: /Game/Localization/StringTable/ST_PlayerSelection.ST_PlayerSelection
+msgctxt "ST_PlayerSelection,Ready!"
+msgid "Ready !!"
+msgstr "Ready !!"
+
+#. Key:	Ready?
+#. SourceLocation:	/Game/Localization/StringTable/ST_PlayerSelection.ST_PlayerSelection
+#: /Game/Localization/StringTable/ST_PlayerSelection.ST_PlayerSelection
+msgctxt "ST_PlayerSelection,Ready?"
+msgid "Ready ?"
+msgstr "Ready ?"
+
+#. Key:	Select
+#. SourceLocation:	/Game/Localization/StringTable/ST_PlayerSelection.ST_PlayerSelection
+#: /Game/Localization/StringTable/ST_PlayerSelection.ST_PlayerSelection
+msgctxt "ST_PlayerSelection,Select"
+msgid "Select"
+msgstr "Select"
+
+#. Key:	SelectChampion
+#. SourceLocation:	/Game/Localization/StringTable/ST_PlayerSelection.ST_PlayerSelection
+#: /Game/Localization/StringTable/ST_PlayerSelection.ST_PlayerSelection
+msgctxt "ST_PlayerSelection,SelectChampion"
+msgid "Select your Champion"
+msgstr "Select your Champion"
+
+#. Key:	SelectSkills
+#. SourceLocation:	/Game/Localization/StringTable/ST_PlayerSelection.ST_PlayerSelection
+#: /Game/Localization/StringTable/ST_PlayerSelection.ST_PlayerSelection
+msgctxt "ST_PlayerSelection,SelectSkills"
+msgid "Select your Skills"
+msgstr "Select your Skills"
+
+#. Key:	SwitchSide
+#. SourceLocation:	/Game/Localization/StringTable/ST_PlayerSelection.ST_PlayerSelection
+#: /Game/Localization/StringTable/ST_PlayerSelection.ST_PlayerSelection
+msgctxt "ST_PlayerSelection,SwitchSide"
+msgid "Switch Side"
+msgstr "Switch Side"
+
+#. Key:	ActiveBonus
+#. SourceLocation:	/Game/Localization/StringTable/ST_SettingsPause.ST_SettingsPause
+#: /Game/Localization/StringTable/ST_SettingsPause.ST_SettingsPause
+msgctxt "ST_SettingsPause,ActiveBonus"
+msgid "Active Bonus"
+msgstr "Active Bonus"
+
+#. Key:	Back
+#. SourceLocation:	/Game/Localization/StringTable/ST_SettingsPause.ST_SettingsPause
+#: /Game/Localization/StringTable/ST_SettingsPause.ST_SettingsPause
+msgctxt "ST_SettingsPause,Back"
+msgid "Back"
+msgstr "Back"
+
+#. Key:	BonusSettings
+#. SourceLocation:	/Game/Localization/StringTable/ST_SettingsPause.ST_SettingsPause
+#: /Game/Localization/StringTable/ST_SettingsPause.ST_SettingsPause
+msgctxt "ST_SettingsPause,BonusSettings"
+msgid "Bonus Settings"
+msgstr "Bonus Settings"
+
+#. Key:	MainMenu
+#. SourceLocation:	/Game/Localization/StringTable/ST_SettingsPause.ST_SettingsPause
+#: /Game/Localization/StringTable/ST_SettingsPause.ST_SettingsPause
+msgctxt "ST_SettingsPause,MainMenu"
+msgid "Main Menu"
+msgstr "Main Menu"
+
+#. Key:	Pause
+#. SourceLocation:	/Game/Localization/StringTable/ST_SettingsPause.ST_SettingsPause
+#: /Game/Localization/StringTable/ST_SettingsPause.ST_SettingsPause
+msgctxt "ST_SettingsPause,Pause"
+msgid "Pause"
+msgstr "Pause"
+
+#. Key:	PlayerSelection
+#. SourceLocation:	/Game/Localization/StringTable/ST_SettingsPause.ST_SettingsPause
+#: /Game/Localization/StringTable/ST_SettingsPause.ST_SettingsPause
+msgctxt "ST_SettingsPause,PlayerSelection"
+msgid "Player Selection"
+msgstr "Player Selection"
+
+#. Key:	Resume
+#. SourceLocation:	/Game/Localization/StringTable/ST_SettingsPause.ST_SettingsPause
+#: /Game/Localization/StringTable/ST_SettingsPause.ST_SettingsPause
+msgctxt "ST_SettingsPause,Resume"
+msgid "Resume"
+msgstr "Resume"
+
+#. Key:	BlocBarrier
+#. SourceLocation:	/Game/Localization/StringTable/ST_Skills.ST_Skills
+#: /Game/Localization/StringTable/ST_Skills.ST_Skills
+msgctxt "ST_Skills,BlocBarrier"
+msgid "Bloc Barrier"
+msgstr "Bloc Barrier"
+
+#. Key:	BlocBarrierDes
+#. SourceLocation:	/Game/Localization/StringTable/ST_Skills.ST_Skills
+#: /Game/Localization/StringTable/ST_Skills.ST_Skills
+msgctxt "ST_Skills,BlocBarrierDes"
+msgid "Spawn 3 blocs in front of your fighter."
+msgstr "Spawn 3 blocs in front of your fighter."
+
+#. Key:	ImpulseWave
+#. SourceLocation:	/Game/Localization/StringTable/ST_Skills.ST_Skills
+#: /Game/Localization/StringTable/ST_Skills.ST_Skills
+msgctxt "ST_Skills,ImpulseWave"
+msgid "Impulse Wave"
+msgstr "Impulse Wave"
+
+#. Key:	ImpulseWaveDes
+#. SourceLocation:	/Game/Localization/StringTable/ST_Skills.ST_Skills
+#: /Game/Localization/StringTable/ST_Skills.ST_Skills
+msgctxt "ST_Skills,ImpulseWaveDes"
+msgid "Create an explosion around your fighter.\r\nPush and Stun any other fighter in range."
+msgstr "Create an explosion around your fighter.\r\nPush and Stun any other fighter in range."
+
+#. Key:	Invincibility
+#. SourceLocation:	/Game/Localization/StringTable/ST_Skills.ST_Skills
+#: /Game/Localization/StringTable/ST_Skills.ST_Skills
+msgctxt "ST_Skills,Invincibility"
+msgid "Invincibility"
+msgstr "Invincibility"
+
+#. Key:	InvincibilityDes
+#. SourceLocation:	/Game/Localization/StringTable/ST_Skills.ST_Skills
+#: /Game/Localization/StringTable/ST_Skills.ST_Skills
+msgctxt "ST_Skills,InvincibilityDes"
+msgid "Renders your fighter impervious to every attacks."
+msgstr "Renders your fighter impervious to every attacks."
+
+#. Key:	IonicWave
+#. SourceLocation:	/Game/Localization/StringTable/ST_Skills.ST_Skills
+#: /Game/Localization/StringTable/ST_Skills.ST_Skills
+msgctxt "ST_Skills,IonicWave"
+msgid "Ionic Wave"
+msgstr "Ionic Wave"
+
+#. Key:	IonicWaveDes
+#. SourceLocation:	/Game/Localization/StringTable/ST_Skills.ST_Skills
+#: /Game/Localization/StringTable/ST_Skills.ST_Skills
+msgctxt "ST_Skills,IonicWaveDes"
+msgid "Create an explosion around your fighter.\r\nExplode anything in range."
+msgstr "Create an explosion around your fighter.\r\nExplode anything in range."
+
+#. Key:	MineLayer
+#. SourceLocation:	/Game/Localization/StringTable/ST_Skills.ST_Skills
+#: /Game/Localization/StringTable/ST_Skills.ST_Skills
+msgctxt "ST_Skills,MineLayer"
+msgid "Mine Layer"
+msgstr "Mine Layer"
+
+#. Key:	MineLayerDes
+#. SourceLocation:	/Game/Localization/StringTable/ST_Skills.ST_Skills
+#: /Game/Localization/StringTable/ST_Skills.ST_Skills
+msgctxt "ST_Skills,MineLayerDes"
+msgid "Spawn a mine at your fighter position.\r\nExplode if anything else than you hit it."
+msgstr "Spawn a mine at your fighter position.\r\nExplode if anything else than you hit it."
+
+#. Key:	Mirror
+#. SourceLocation:	/Game/Localization/StringTable/ST_Skills.ST_Skills
+#: /Game/Localization/StringTable/ST_Skills.ST_Skills
+msgctxt "ST_Skills,Mirror"
+msgid "Mirror"
+msgstr "Mirror"
+
+#. Key:	MirrorDes
+#. SourceLocation:	/Game/Localization/StringTable/ST_Skills.ST_Skills
+#: /Game/Localization/StringTable/ST_Skills.ST_Skills
+msgctxt "ST_Skills,MirrorDes"
+msgid "Create a following wall in front of your fighter.\r\nReflect your opponent projectile."
+msgstr "Create a following wall in front of your fighter.\r\nReflect your opponent projectile."
+
+#. Key:	TimedOgive
+#. SourceLocation:	/Game/Localization/StringTable/ST_Skills.ST_Skills
+#: /Game/Localization/StringTable/ST_Skills.ST_Skills
+msgctxt "ST_Skills,TimedOgive"
+msgid "Timed Ogive"
+msgstr "Timed Ogive"
+
+#. Key:	TimedOgiveDes
+#. SourceLocation:	/Game/Localization/StringTable/ST_Skills.ST_Skills
+#: /Game/Localization/StringTable/ST_Skills.ST_Skills
+msgctxt "ST_Skills,TimedOgiveDes"
+msgid "Shot a Huge Missile in front of you.\r\nExplode in a medium range when it hits anything."
+msgstr "Shot a Huge Missile in front of you.\r\nExplode in a medium range when it hits anything."
+
+#. Key:	Credits
+#. SourceLocation:	/Game/Localization/StringTable/ST_UMGMainMenu.ST_UMGMainMenu
+#: /Game/Localization/StringTable/ST_UMGMainMenu.ST_UMGMainMenu
+msgctxt "ST_UMGMainMenu,Credits"
+msgid "Credits"
+msgstr "Credits"
+
+#. Key:	IA
+#. SourceLocation:	/Game/Localization/StringTable/ST_UMGMainMenu.ST_UMGMainMenu
+#: /Game/Localization/StringTable/ST_UMGMainMenu.ST_UMGMainMenu
+msgctxt "ST_UMGMainMenu,IA"
+msgid "Play VS IA !"
+msgstr "Play VS IA !"
+
+#. Key:	Play
+#. SourceLocation:	/Game/Localization/StringTable/ST_UMGMainMenu.ST_UMGMainMenu
+#: /Game/Localization/StringTable/ST_UMGMainMenu.ST_UMGMainMenu
+msgctxt "ST_UMGMainMenu,Play"
+msgid "Play !"
+msgstr "Play !"
+
+#. Key:	Quit
+#. SourceLocation:	/Game/Localization/StringTable/ST_UMGMainMenu.ST_UMGMainMenu
+#: /Game/Localization/StringTable/ST_UMGMainMenu.ST_UMGMainMenu
+msgctxt "ST_UMGMainMenu,Quit"
+msgid "Quit"
+msgstr "Quit"
+
+#. Key:	Settings
+#. SourceLocation:	/Game/Localization/StringTable/ST_UMGMainMenu.ST_UMGMainMenu
+#: /Game/Localization/StringTable/ST_UMGMainMenu.ST_UMGMainMenu
+msgctxt "ST_UMGMainMenu,Settings"
+msgid "Settings"
+msgstr "Settings"
+
+#. Key:	Tutorial
+#. SourceLocation:	/Game/Localization/StringTable/ST_UMGMainMenu.ST_UMGMainMenu
+#: /Game/Localization/StringTable/ST_UMGMainMenu.ST_UMGMainMenu
+msgctxt "ST_UMGMainMenu,Tutorial"
+msgid "Tutorial"
+msgstr "Tutorial"
+
